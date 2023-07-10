@@ -4,8 +4,8 @@ This script is a number guessing game where users try to guess a randomly genera
 
 ## Prerequisites
 
--PostgreSQL: Ensure that PostgreSQL is installed and running on your system.
--Database Setup: Create a database named "periodic_table" with the necessary tables and data for the periodic table elements.
+- PostgreSQL: Ensure that PostgreSQL is installed and running on your system.
+- Database Setup: Create a database named "periodic_table" with the necessary tables and data for the periodic table elements.
 
 ## Script Overview
 
